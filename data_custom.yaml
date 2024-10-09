@@ -1,0 +1,8 @@
+train: "C:\\Users\\halil\\Desktop\\OpenCV_python\\customdetection2\\train"
+val: "C:\\Users\\halil\\Desktop\\OpenCV_python\\customdetection2\\val"
+
+nc: 2
+
+names:
+    0: hat
+    1: vest
